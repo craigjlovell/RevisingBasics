@@ -1,0 +1,11 @@
+C:\Users\s171627\source\repos\RevisingBasics\DataType\bin\Debug\netcoreapp3.1\DataType.exe
+C:\Users\s171627\source\repos\RevisingBasics\DataType\bin\Debug\netcoreapp3.1\DataType.deps.json
+C:\Users\s171627\source\repos\RevisingBasics\DataType\bin\Debug\netcoreapp3.1\DataType.runtimeconfig.json
+C:\Users\s171627\source\repos\RevisingBasics\DataType\bin\Debug\netcoreapp3.1\DataType.runtimeconfig.dev.json
+C:\Users\s171627\source\repos\RevisingBasics\DataType\bin\Debug\netcoreapp3.1\DataType.dll
+C:\Users\s171627\source\repos\RevisingBasics\DataType\bin\Debug\netcoreapp3.1\DataType.pdb
+C:\Users\s171627\source\repos\RevisingBasics\DataType\obj\Debug\netcoreapp3.1\DataType.csprojAssemblyReference.cache
+C:\Users\s171627\source\repos\RevisingBasics\DataType\obj\Debug\netcoreapp3.1\DataType.AssemblyInfoInputs.cache
+C:\Users\s171627\source\repos\RevisingBasics\DataType\obj\Debug\netcoreapp3.1\DataType.AssemblyInfo.cs
+C:\Users\s171627\source\repos\RevisingBasics\DataType\obj\Debug\netcoreapp3.1\DataType.dll
+C:\Users\s171627\source\repos\RevisingBasics\DataType\obj\Debug\netcoreapp3.1\DataType.pdb

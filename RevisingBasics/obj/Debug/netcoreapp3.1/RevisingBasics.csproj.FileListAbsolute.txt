@@ -1,0 +1,11 @@
+C:\Users\s171627\source\repos\RevisingBasics\RevisingBasics\bin\Debug\netcoreapp3.1\RevisingBasics.exe
+C:\Users\s171627\source\repos\RevisingBasics\RevisingBasics\bin\Debug\netcoreapp3.1\RevisingBasics.deps.json
+C:\Users\s171627\source\repos\RevisingBasics\RevisingBasics\bin\Debug\netcoreapp3.1\RevisingBasics.runtimeconfig.json
+C:\Users\s171627\source\repos\RevisingBasics\RevisingBasics\bin\Debug\netcoreapp3.1\RevisingBasics.runtimeconfig.dev.json
+C:\Users\s171627\source\repos\RevisingBasics\RevisingBasics\bin\Debug\netcoreapp3.1\RevisingBasics.dll
+C:\Users\s171627\source\repos\RevisingBasics\RevisingBasics\bin\Debug\netcoreapp3.1\RevisingBasics.pdb
+C:\Users\s171627\source\repos\RevisingBasics\RevisingBasics\obj\Debug\netcoreapp3.1\RevisingBasics.csprojAssemblyReference.cache
+C:\Users\s171627\source\repos\RevisingBasics\RevisingBasics\obj\Debug\netcoreapp3.1\RevisingBasics.AssemblyInfoInputs.cache
+C:\Users\s171627\source\repos\RevisingBasics\RevisingBasics\obj\Debug\netcoreapp3.1\RevisingBasics.AssemblyInfo.cs
+C:\Users\s171627\source\repos\RevisingBasics\RevisingBasics\obj\Debug\netcoreapp3.1\RevisingBasics.dll
+C:\Users\s171627\source\repos\RevisingBasics\RevisingBasics\obj\Debug\netcoreapp3.1\RevisingBasics.pdb
