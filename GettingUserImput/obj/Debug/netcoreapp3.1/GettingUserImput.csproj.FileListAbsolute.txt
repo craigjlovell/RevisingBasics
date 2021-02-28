@@ -1,0 +1,12 @@
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\GettingUserImput\bin\Debug\netcoreapp3.1\GettingUserImput.exe
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\GettingUserImput\bin\Debug\netcoreapp3.1\GettingUserImput.deps.json
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\GettingUserImput\bin\Debug\netcoreapp3.1\GettingUserImput.runtimeconfig.json
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\GettingUserImput\bin\Debug\netcoreapp3.1\GettingUserImput.runtimeconfig.dev.json
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\GettingUserImput\bin\Debug\netcoreapp3.1\GettingUserImput.dll
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\GettingUserImput\bin\Debug\netcoreapp3.1\GettingUserImput.pdb
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\GettingUserImput\obj\Debug\netcoreapp3.1\GettingUserImput.AssemblyInfoInputs.cache
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\GettingUserImput\obj\Debug\netcoreapp3.1\GettingUserImput.AssemblyInfo.cs
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\GettingUserImput\obj\Debug\netcoreapp3.1\GettingUserImput.csproj.CoreCompileInputs.cache
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\GettingUserImput\obj\Debug\netcoreapp3.1\GettingUserImput.dll
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\GettingUserImput\obj\Debug\netcoreapp3.1\GettingUserImput.pdb
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\GettingUserImput\obj\Debug\netcoreapp3.1\GettingUserImput.genruntimeconfig.cache

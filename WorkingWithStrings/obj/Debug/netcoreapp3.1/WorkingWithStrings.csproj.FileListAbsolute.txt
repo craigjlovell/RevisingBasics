@@ -9,3 +9,16 @@ C:\Users\s171627\source\repos\RevisingBasics\WorkingWithStrings\obj\Debug\netcor
 C:\Users\s171627\source\repos\RevisingBasics\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.AssemblyInfo.cs
 C:\Users\s171627\source\repos\RevisingBasics\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.dll
 C:\Users\s171627\source\repos\RevisingBasics\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.pdb
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\WorkingWithStrings\bin\Debug\netcoreapp3.1\WorkingWithStrings.exe
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\WorkingWithStrings\bin\Debug\netcoreapp3.1\WorkingWithStrings.deps.json
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\WorkingWithStrings\bin\Debug\netcoreapp3.1\WorkingWithStrings.runtimeconfig.json
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\WorkingWithStrings\bin\Debug\netcoreapp3.1\WorkingWithStrings.runtimeconfig.dev.json
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\WorkingWithStrings\bin\Debug\netcoreapp3.1\WorkingWithStrings.dll
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\WorkingWithStrings\bin\Debug\netcoreapp3.1\WorkingWithStrings.pdb
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.csprojAssemblyReference.cache
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.AssemblyInfoInputs.cache
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.AssemblyInfo.cs
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.dll
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.pdb
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.genruntimeconfig.cache

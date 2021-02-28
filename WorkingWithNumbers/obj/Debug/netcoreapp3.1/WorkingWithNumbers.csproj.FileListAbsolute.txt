@@ -1,0 +1,13 @@
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\WorkingWithNumbers\bin\Debug\netcoreapp3.1\WorkingWithNumbers.exe
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\WorkingWithNumbers\bin\Debug\netcoreapp3.1\WorkingWithNumbers.deps.json
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\WorkingWithNumbers\bin\Debug\netcoreapp3.1\WorkingWithNumbers.runtimeconfig.json
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\WorkingWithNumbers\bin\Debug\netcoreapp3.1\WorkingWithNumbers.runtimeconfig.dev.json
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\WorkingWithNumbers\bin\Debug\netcoreapp3.1\WorkingWithNumbers.dll
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\WorkingWithNumbers\bin\Debug\netcoreapp3.1\WorkingWithNumbers.pdb
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\WorkingWithNumbers\obj\Debug\netcoreapp3.1\WorkingWithNumbers.csprojAssemblyReference.cache
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\WorkingWithNumbers\obj\Debug\netcoreapp3.1\WorkingWithNumbers.AssemblyInfoInputs.cache
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\WorkingWithNumbers\obj\Debug\netcoreapp3.1\WorkingWithNumbers.AssemblyInfo.cs
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\WorkingWithNumbers\obj\Debug\netcoreapp3.1\WorkingWithNumbers.csproj.CoreCompileInputs.cache
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\WorkingWithNumbers\obj\Debug\netcoreapp3.1\WorkingWithNumbers.dll
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\WorkingWithNumbers\obj\Debug\netcoreapp3.1\WorkingWithNumbers.pdb
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\WorkingWithNumbers\obj\Debug\netcoreapp3.1\WorkingWithNumbers.genruntimeconfig.cache

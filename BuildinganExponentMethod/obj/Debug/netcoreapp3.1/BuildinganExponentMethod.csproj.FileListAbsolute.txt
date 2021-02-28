@@ -1,0 +1,12 @@
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildinganExponentMethod\bin\Debug\netcoreapp3.1\BuildinganExponentMethod.exe
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildinganExponentMethod\bin\Debug\netcoreapp3.1\BuildinganExponentMethod.deps.json
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildinganExponentMethod\bin\Debug\netcoreapp3.1\BuildinganExponentMethod.runtimeconfig.json
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildinganExponentMethod\bin\Debug\netcoreapp3.1\BuildinganExponentMethod.runtimeconfig.dev.json
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildinganExponentMethod\bin\Debug\netcoreapp3.1\BuildinganExponentMethod.dll
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildinganExponentMethod\bin\Debug\netcoreapp3.1\BuildinganExponentMethod.pdb
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildinganExponentMethod\obj\Debug\netcoreapp3.1\BuildinganExponentMethod.AssemblyInfoInputs.cache
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildinganExponentMethod\obj\Debug\netcoreapp3.1\BuildinganExponentMethod.AssemblyInfo.cs
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildinganExponentMethod\obj\Debug\netcoreapp3.1\BuildinganExponentMethod.csproj.CoreCompileInputs.cache
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildinganExponentMethod\obj\Debug\netcoreapp3.1\BuildinganExponentMethod.dll
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildinganExponentMethod\obj\Debug\netcoreapp3.1\BuildinganExponentMethod.pdb
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildinganExponentMethod\obj\Debug\netcoreapp3.1\BuildinganExponentMethod.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\2dArrays\bin\Debug\netcoreapp3.1\2dArrays.exe
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\2dArrays\bin\Debug\netcoreapp3.1\2dArrays.deps.json
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\2dArrays\bin\Debug\netcoreapp3.1\2dArrays.runtimeconfig.json
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\2dArrays\bin\Debug\netcoreapp3.1\2dArrays.runtimeconfig.dev.json
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\2dArrays\bin\Debug\netcoreapp3.1\2dArrays.dll
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\2dArrays\bin\Debug\netcoreapp3.1\2dArrays.pdb
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\2dArrays\obj\Debug\netcoreapp3.1\2dArrays.AssemblyInfoInputs.cache
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\2dArrays\obj\Debug\netcoreapp3.1\2dArrays.AssemblyInfo.cs
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\2dArrays\obj\Debug\netcoreapp3.1\2dArrays.csproj.CoreCompileInputs.cache
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\2dArrays\obj\Debug\netcoreapp3.1\2dArrays.dll
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\2dArrays\obj\Debug\netcoreapp3.1\2dArrays.pdb
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\2dArrays\obj\Debug\netcoreapp3.1\2dArrays.genruntimeconfig.cache

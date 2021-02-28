@@ -1,0 +1,12 @@
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildingaMadLib\bin\Debug\netcoreapp3.1\BuildingaMadLib.exe
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildingaMadLib\bin\Debug\netcoreapp3.1\BuildingaMadLib.deps.json
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildingaMadLib\bin\Debug\netcoreapp3.1\BuildingaMadLib.runtimeconfig.json
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildingaMadLib\bin\Debug\netcoreapp3.1\BuildingaMadLib.runtimeconfig.dev.json
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildingaMadLib\bin\Debug\netcoreapp3.1\BuildingaMadLib.dll
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildingaMadLib\bin\Debug\netcoreapp3.1\BuildingaMadLib.pdb
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildingaMadLib\obj\Debug\netcoreapp3.1\BuildingaMadLib.AssemblyInfoInputs.cache
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildingaMadLib\obj\Debug\netcoreapp3.1\BuildingaMadLib.AssemblyInfo.cs
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildingaMadLib\obj\Debug\netcoreapp3.1\BuildingaMadLib.csproj.CoreCompileInputs.cache
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildingaMadLib\obj\Debug\netcoreapp3.1\BuildingaMadLib.dll
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildingaMadLib\obj\Debug\netcoreapp3.1\BuildingaMadLib.pdb
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildingaMadLib\obj\Debug\netcoreapp3.1\BuildingaMadLib.genruntimeconfig.cache

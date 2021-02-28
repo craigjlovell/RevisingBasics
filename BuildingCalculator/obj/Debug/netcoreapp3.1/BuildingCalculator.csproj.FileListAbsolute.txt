@@ -1,0 +1,12 @@
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildingCalculator\bin\Debug\netcoreapp3.1\BuildingCalculator.exe
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildingCalculator\bin\Debug\netcoreapp3.1\BuildingCalculator.deps.json
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildingCalculator\bin\Debug\netcoreapp3.1\BuildingCalculator.runtimeconfig.json
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildingCalculator\bin\Debug\netcoreapp3.1\BuildingCalculator.runtimeconfig.dev.json
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildingCalculator\bin\Debug\netcoreapp3.1\BuildingCalculator.dll
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildingCalculator\bin\Debug\netcoreapp3.1\BuildingCalculator.pdb
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildingCalculator\obj\Debug\netcoreapp3.1\BuildingCalculator.AssemblyInfoInputs.cache
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildingCalculator\obj\Debug\netcoreapp3.1\BuildingCalculator.AssemblyInfo.cs
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildingCalculator\obj\Debug\netcoreapp3.1\BuildingCalculator.csproj.CoreCompileInputs.cache
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildingCalculator\obj\Debug\netcoreapp3.1\BuildingCalculator.dll
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildingCalculator\obj\Debug\netcoreapp3.1\BuildingCalculator.pdb
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\BuildingCalculator\obj\Debug\netcoreapp3.1\BuildingCalculator.genruntimeconfig.cache

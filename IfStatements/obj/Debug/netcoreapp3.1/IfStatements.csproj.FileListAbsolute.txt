@@ -1,0 +1,12 @@
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\IfStatements\bin\Debug\netcoreapp3.1\IfStatements.exe
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\IfStatements\bin\Debug\netcoreapp3.1\IfStatements.deps.json
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\IfStatements\bin\Debug\netcoreapp3.1\IfStatements.runtimeconfig.json
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\IfStatements\bin\Debug\netcoreapp3.1\IfStatements.runtimeconfig.dev.json
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\IfStatements\bin\Debug\netcoreapp3.1\IfStatements.dll
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\IfStatements\bin\Debug\netcoreapp3.1\IfStatements.pdb
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\IfStatements\obj\Debug\netcoreapp3.1\IfStatements.AssemblyInfoInputs.cache
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\IfStatements\obj\Debug\netcoreapp3.1\IfStatements.AssemblyInfo.cs
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\IfStatements\obj\Debug\netcoreapp3.1\IfStatements.csproj.CoreCompileInputs.cache
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\IfStatements\obj\Debug\netcoreapp3.1\IfStatements.dll
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\IfStatements\obj\Debug\netcoreapp3.1\IfStatements.pdb
+C:\Users\craig\OneDrive\Desktop\GitPorgects\RevisingBasics\IfStatements\obj\Debug\netcoreapp3.1\IfStatements.genruntimeconfig.cache

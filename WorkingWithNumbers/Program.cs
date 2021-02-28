@@ -6,7 +6,14 @@ namespace WorkingWithNumbers
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // < > * / % - + =
+            int num1 = 6;
+            num1--;
+
+            Console.WriteLine(Math.Round(4.900) );
+
+            Console.ReadLine();
+
         }
     }
 }

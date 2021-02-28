@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BuildingCalculatorINT/1.0.0": {
+        "runtime": {
+          "BuildingCalculatorINT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuildingCalculatorINT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
